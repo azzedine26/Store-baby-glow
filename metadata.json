@@ -1,0 +1,6 @@
+{
+  "name": "BABY glow | ملابس حديثي الولادة",
+  "description": "متجر BABY glow لملابس ومستلزمات حديثي الولادة والمواليد الجدد مع الطلب الفوري والتوصيل لجميع الولايات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
